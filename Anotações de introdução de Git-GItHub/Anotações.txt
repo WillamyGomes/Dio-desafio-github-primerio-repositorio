@@ -1,0 +1,3 @@
+* Para sicronizar o Markdown entre site e terminal: git clone > Insere o link copiado do site.
+* Para ver o status: git status
+* Para adicionar informações inseridas da um git status vai ver que ficou em vermelho a informação.
