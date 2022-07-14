@@ -1,3 +1,5 @@
 * Para sicronizar o Markdown entre site e terminal: git clone > Insere o link copiado do site.
 * Para ver o status: git status
 * Para adicionar informações inseridas da um git status vai ver que ficou em vermelho a informação.
+* Para adicionar essas informações e enviar para o site do Git Hub: git add . > depois da um git status para verificar ele é para estar verde.
+* Agora tem que enviar para o site: git commit -m "Coloca um comentario que facilite o entendimento", da um git status para verificar se esta anexado e enviar pelo Push, git push origin main vai pedir usuario e senha se for pelo HTTP.
